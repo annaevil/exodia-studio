@@ -1,4 +1,4 @@
-# exodia-studio
+# Exodia-studio
 ![Screen-Recorder-recording-2023-08-01](https://github.com/annaevil/exodia-studio/assets/91489967/c1c3ed66-aa07-4a67-af12-e2ae7540eda2)
 ____
 ## Project for an English web studio
